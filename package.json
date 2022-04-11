@@ -1,0 +1,21 @@
+{
+  "name": "parcel2-issue",
+  "version": "1.0.0",
+  "description": "sandbox for parcel2 build issues",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanStraltsou/parcel2-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanStraltsou/parcel2-issue/issues"
+  },
+  "homepage": "https://github.com/ivanStraltsou/parcel2-issue#readme",
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  }
+}
