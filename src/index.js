@@ -1,4 +1,6 @@
-import { isAValue, isBValue } from "./lib";
+import { RANDOM_REASON } from "./constants";
 
-console.log(isAValue({ isAValue: true }));
-console.log(isBValue({ isBValue: true }));
+fetch('something').then((data) => {
+    console.log(data.reasons?.[RANDOM_REASON]);
+})
+

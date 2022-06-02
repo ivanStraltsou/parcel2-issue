@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/ivanStraltsou/parcel2-issue#readme",
   "devDependencies": {
-    "parcel": "^2.4.1"
+    "parcel": "^2.6.0"
   }
 }
